@@ -4,8 +4,8 @@
 
 
 x <- 9
-y <- 7
+yy <- 7
 
-z <- x - y
+z <- x - yy
 
 print(z)
