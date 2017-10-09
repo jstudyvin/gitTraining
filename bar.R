@@ -3,10 +3,10 @@
 ## awesome updates
 
 
-x <- 92983
+xx <- 92983
 yy <- 73948
 
 
-z <- x - yy
+z <- xx - yy
 
 print(z)
