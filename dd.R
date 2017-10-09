@@ -6,4 +6,4 @@ y <- 7
 
 z <- x + y
 
-print(z)
+print(z^2 + 3)
