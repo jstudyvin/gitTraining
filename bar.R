@@ -10,3 +10,4 @@ yy <- 73948
 z <- xx - yy
 
 print(z)
+print(z^2)
