@@ -9,3 +9,5 @@ yy <- 7
 z <- x - yy
 
 print(z)
+
+paulWorkingInMaster <- 'there'
