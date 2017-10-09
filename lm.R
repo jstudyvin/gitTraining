@@ -4,6 +4,6 @@
 x <- 8
 y <- 7
 
-z <- x + y
+z <- x + y + x^2
 
 print(z)
